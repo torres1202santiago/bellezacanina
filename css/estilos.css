@@ -1,0 +1,149 @@
+/*este es un comentario*/
+
+@import url('https://fonts.googleapis.com/css2? familia= Castoro+Titulación &family= Noto+Serif+Telugu:wght@500 & display=swap');
+.veterinario{
+   background-color: rgb(19, 179, 19);
+   opacity: .7;
+ }
+.baño{
+   background-color: rgb(28, 165, 228);
+   opacity: .7;
+ }
+ .peluqueria{
+   background-color: rgb(228, 28, 178);
+   opacity: .7;  
+ }
+ .contactos{
+   background-color: hsl(27, 100%, 50%);
+ }
+body{
+   background-color: rgb(180, 173, 173);
+    }
+.button{
+   background-color: rgb(246, 246, 252);
+   padding: 50px;
+   margin-top: 50px;
+   border-color: forestgreen;
+   
+}    
+h1 {
+   text-align: center;
+   color: cornsilk;
+   background-color: fuchsia;
+   padding:30px 20px;
+   
+  
+}
+p{
+   color: rgb(0, 0, 0);
+   background-color:transparent
+}
+.containerform{
+   text-align:center;
+
+   background-color: rgb(150, 156, 156);
+   border-radius: 20px;
+   margin-left:9cm;
+   margin-right:9cm;
+  
+}
+#txtnombre{
+   margin-top: 1cm;
+   
+}
+.btnenviar{
+   margin-bottom: 2cm;
+   color: aliceblue;
+   background-color: rgb(73, 72, 72);
+}
+.containerimg{
+   background-image:url(https://cursosmasters.com/wp-content/uploads/2022/03/cursos-de-peluqueria-canina-online-precio-titulo-oficial.jpg);
+
+}
+.img-belleza{
+   margin-left: 2.8cm;
+}
+.carousel-intem{
+   color: black;
+   background-color:transparent;
+}
+.containeram{
+   border-right:  4px;
+}
+.accesorios2  {
+   font-size:medium;
+   background-color: rgb(240, 96, 173);
+   opacity: .9;
+ 
+   color: beige;
+
+}
+h4{
+color: blueviolet;
+padding-bottom:0.3cm;
+padding-top: 0.3cm;
+margin-top:6cm;
+}
+.img-veterinario{
+   margin-left: 2.8cm;
+
+}
+ul {
+   color: rgb(146, 136, 136);
+   
+}
+.h3accesorios{
+   font-size: 1cm;
+}
+.indexbelleza{
+   color: aliceblue;
+}
+.itmaccesorios{
+   color: rgb(12, 12, 12);
+   font-size: 28px;
+   text-align: center;
+   text-align: left;
+}
+.imglabrador{
+
+border-radius: 25%;
+border-color: black;
+}
+.bienvenidos{
+   background-color: rgb(4, 235, 93);
+   opacity: 75%;
+}
+.iniciobellezacanina{
+   background-color: darkorchid;
+   color: aliceblue;
+   
+}
+
+.colormedicamentos{
+
+   color: black;
+}
+.cuadro1 {
+   background-color: aqua;
+ 
+}
+.cuadrot{
+   background-color: black;
+   color: azure;
+   
+}
+.cuadro2{
+   background-color: rgb(204, 0, 255);
+   border: 2px solid chocolate;
+}
+.cuadro3{
+   background-color: rgb(55, 45, 202);
+   padding-left: 50px;
+}
+.btn-blanco{
+   background-color: blanchedalmond;
+   text-decoration: none;
+   padding:4px;
+  border-color: black;
+  border-radius: 10px;
+}
